@@ -1,7 +1,7 @@
 # PathTraversalChecker
 This script checks for path traversal vulnerabilities in a given URL by testing various payloads. It prints the results in green if a vulnerability is found and in red if not. At the end, it provides a summary of the total vulnerabilities found and the payloads that worked.
 
-![Watch the video](https://github-production-user-asset-6210df.s3.amazonaws.com/114058415/369674611-bac19f2a-d8af-4b4b-b540-68d7fdbf8db9.mp4)
+![Watch the video](https://github-production-user-asset-6210df.s3.amazonaws.com/114058415/369674611-bac19f2a-d8af-4b4b-b540-68d7fdbf8db9.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240922%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240922T083110Z&X-Amz-Expires=300&X-Amz-Signature=f11b10eddbf936ca5115579482196e190186a900a0e0a23d4cf4852b02cc08d2&X-Amz-SignedHeaders=host)
 
 ## Prerequisites
 
