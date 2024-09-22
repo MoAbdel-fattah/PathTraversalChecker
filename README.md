@@ -1,7 +1,7 @@
 # PathTraversalChecker
 This script checks for path traversal vulnerabilities in a given URL by testing various payloads. It prints the results in green if a vulnerability is found and in red if not. At the end, it provides a summary of the total vulnerabilities found and the payloads that worked.
 
-![Watch the video](https://github.com/MoAbdel-fattah/PathTraversalChecker/blob/main/Live.mp4)
+![Watch the video](https://github.com/user-attachments/assets/bac19f2a-d8af-4b4b-b540-68d7fdbf8db9)
 
 ## Prerequisites
 
